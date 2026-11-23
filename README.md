@@ -127,3 +127,12 @@ arduino-cli upload -p /dev/ttyUSB0 --fqbn esp32:esp32:esp32 firmware
 No monitor serial (115200), a placa mostra a conexão ao Wi-Fi, ao broker e cada leitura publicada.
 
 </details>
+
+## Documentação de utilização do firmware
+ 
+- [FIRMWARE.md](FIRMWARE.md): guia para copiar, configurar e gravar o firmware na placa ESP32.
+
+## Licença
+ 
+Este projeto é distribuído sob a **Licença MIT**. Você pode usar, copiar, modificar e distribuir o código, desde que
+mantenha o aviso de copyright e a licença nas cópias. O texto completo está no arquivo [LICENSE](LICENSE).
